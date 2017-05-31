@@ -1,3 +1,3 @@
 # ai-practice
 
-Practice writing artificial intelligent code.
+Practice writing artificial intelligence code.
