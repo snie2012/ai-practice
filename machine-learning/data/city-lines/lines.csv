@@ -1,0 +1,425 @@
+id,city_id,name,url_name,color,system_id
+224,69,NR (HS1 & Eurostar),224-nr-(hs1-&-eurostar),#f4cc26,261
+42,4,Línea 1 ,42-linea-1-,#cc0000,267
+75,34,Línea 3 Metro de Caracas,75-linea-3-metro-de-caracas,#000,119
+107,126,Línea 1,107-linea-1,#434343,249
+61,66,Línea 1 (Tramo 1A),61-linea-1,#49aa43,250
+62,66,Línea 2 (Tramo 1A),62-linea-2,#ffbc2d,250
+63,66,Línea 3,63-linea-3,#0085e0,250
+64,66,Línea 4,64-linea-4,#ff2d2e,250
+65,66,Línea 5,65-linea-5,#ed90a5,250
+66,66,Línea 6,66-linea-6,#6b62a3,250
+113,66,Línea 1 (Tramo 1B),113-linea-1-(tramo-2),#49aa43,250
+114,66,Línea 1 (Tramo 2),114-linea-1-(tramo-2),#49aa43,250
+152,118,U1,152-u1,#fe0000,251
+153,118,U2,153-u2,#bd10e0,251
+154,118,U3,154-u3,#f5a623,251
+155,118,U4,155-u4,#417505,251
+156,118,U6,156-u6,#8b572a,251
+119,107,Line 1,119-line-1,#e4002b,252
+120,107,Line 2,120-line-2,#97d700,252
+121,107,Line 3,121-line-3,#ffd100,252
+122,107,Line 4,122-line-4,#ac4fc6,252
+123,107,Line 6,123-line-5,#d71671,252
+124,107,Line 5,124-line-5,#ac4fc6,252
+125,107,Line 7,125-line-7,#ff6900,252
+126,107,Line 8,126-line-8,#009edb,252
+127,107,Line 9,127-line-9,#71c5e8,252
+128,107,Line 10,128-line-10,#c1a7e2,252
+129,107,Line 11,129-line-11,#76232f,252
+130,107,Line 12,130-line-12,#007b5f,252
+131,107,Line 13,131-line-13,#ef95cf,252
+132,107,Line 16,132-line-16,#2cd5c4,252
+135,107,Line 17,135-line-17,#c09c83,252
+136,107,Line 18,136-line-18,#d6a461,252
+137,107,Line 14,137-line-14,#827a04,252
+138,107,Line 15,138-line-15,#bca887,252
+141,21,Troncal Suba (C),141-g30,#f8e71c,253
+213,21,Troncal 80 (D),213-troncal-80-(d),#9013fe,253
+5,1,A,a,#01A9DB,254
+6,1,B,b,#ef2525,254
+7,1,C,c,#4565ee,254
+8,1,D,d,#16a52e,254
+9,1,E,e,#bc3560,254
+10,1,H,h,#f8e71c,254
+11,1,P,p,#FF8000,254
+168,261,Línea 1,168-linea-1,#f58223,256
+169,261,Línea 2,169-linea-2,#ff0000,256
+223,110,Nockebybanan,223-nockebybanan,#f5a623,257
+145,110,Green Line,145-green-line,#7ed321,257
+219,110,Red Line,219-red-line,#d0021b,257
+220,110,Blue Line,220-blue-line,#4a90e2,257
+222,110,Premetro Lines,222-premetro-lines,#000,257
+173,15,Line 1,173-batong,#a12830,258
+174,15,Line 2,174-line-2,#00529b,258
+175,15,Line 4,175-line-4,#008193,258
+176,15,Line 5,176-line-5,#ae005f,258
+177,15,Line 6,177-line-6,#bb8900,258
+178,15,Line 7,178-line-7,#ffc66e,258
+179,15,Line 8,179-line-8,#00997a,258
+180,15,Line 9,180-line-9,#87d300,258
+181,15,Line 10,181-line-10,#0092c7,258
+182,15,Line 13,182-line-13,#f5d312,258
+183,15,Line 14,183-line-15,#d4a7a1,258
+184,15,Line 15,184-line-15,#6a1d44,258
+185,15,Line 16,185-line-16,#6ba53a,258
+186,15,Airport Line,186-airport-line,#9b91b1,258
+187,15,Changping Line,187-changping-line,#d47daa,258
+188,15,Fangshan Line,188-fangshan-line,#d85f26,258
+43,4,Línea 2,43-linea-2,#ffbe2e,267
+59,4,Línea 3,59-linea-3,#925020,267
+45,4,Línea 4,45-linea-4,#292d91,267
+40,4,Línea 4A,40-linea-4a,#0099ff,267
+46,4,Línea 5,46-linea-5,#006633,267
+60,4,Línea 6,60-linea-6,#8e16a1,267
+70,4,Nos Express,70-nos-express,#000000,268
+226,79,S9,226-s9,#aa409f,269
+225,79,M5,225-m5,#b17aea,67
+227,79,M1,227-m1,#ee2e24,67
+170,78,Tren interurbano México - Toluca,170-tren-interurbano-mexico---toluca,#000,272
+72,4,FFCC Llanos del Maipo,72-ffcc-llanos-del-maipo,#000,276
+221,4,FFCC Red Sur,221-ffcc-red-sur,#000,276
+200,4,FFCC Santiago - Valparaiso,200-ffcc-santiago---valparaiso,#000,276
+158,4,FFCC de Circunvalación,158-ffcc-de-circunvalacion,#000,276
+73,4,FFCC Yungay - Barrancas,73-ffcc-yungay---barranas,#000,276
+217,4,Ramal San Felipe - Putaendo,217-ramal-san-felipe---putaendo,#000,276
+133,107,Jinshan Line,133-jinshan-line,#666666,282
+134,107,Maglev,134-maglev,#009090,282
+147,107,Route 71 Yan'an eBRT,147-route-71-yan'an-ebrt,#b8e986,282
+148,107,Songjiang T1,148-songjiang-t1,#f5a623,282
+149,107,Songjiang T2,149-songjiang-t2,#8b572a,282
+150,107,Zhangjiang Tram,150-zhangjiang-tram,#d0021b,282
+112,14,Altres FC.,112-altres-fc.,#000,260
+191,15,Yizhuang Line,191-yizhuang-line,#d61572,258
+257,116,Linea 4,257-linea-4,#4a90e2,102
+218,4,Ramal LLay Llay - Los Andes,218-ramal-llay-llay---los-andes,#000,276
+279,106,Expresso Turístico • Luz-Mogi das Cruzes (CPTM),279-expresso-turistico-•-luz-mogi-das-cruzes,#761418,275
+280,106,Expresso Turístico • Luz-Paranapiacaba (CPTM),280-expresso-turistico-•-luz-paranapiacaba,#761418,275
+192,15,Batong Line,192-batong-line,#ff000e,258
+111,78,Tren Ligero,111-tren-ligero,#013f90,265
+76,78,Tren Suburbano,76-tren-suburbano,#c21707,266
+228,79,M2,228-m2,#5d9732,67
+95,71,1,95-1,#4295ef,246
+96,71,2,96-2,#ff1919,246
+97,71,3,97-3,#f8e71c,246
+98,71,4,98-4,#8b572a,246
+99,71,5,99-5,#7ed321,246
+100,71,6,100-6,#9b9b9b,246
+101,71,7,101-7,#f5a623,246
+102,71,8,102-8,#ff02d5,246
+103,71,9,103-9,#bd10e0,246
+104,71,10,104-10,#220faf,246
+105,71,11,105-11,#4d8f00,246
+106,71,R ,106-r-,#000000,246
+110,71,12,110-12,#808c45,246
+83,14,L1,83-l1,#e22739,247
+84,14,L2,84-l2,#992f9c,247
+85,14,L3,85-l3,#4fbe48,247
+86,14,L4,86-l4,#fab70a,247
+87,14,L5,87-l5,#317bc7,247
+88,14,L6,88-l6,#827bc3,247
+89,14,L7,89-l7,#ac5414,247
+90,14,L8,90-l8,#e659b4,247
+91,14,L9,91-l9,#f6842a,247
+92,14,L10,92-l10,#00adef,247
+93,14,L11,93-l11,#9ed74c,247
+94,14,L12,94-l12,#8800df,247
+245,79,S4,245-s4,#67ad12,269
+57,78,Línea B,57-linea-b,#018c65,248
+48,78,Línea 2,48-linea-2,#0164a8,248
+47,78,Línea 1,47-linea-1,#f54a91,248
+49,78,Línea 3,49-linea-3,#9e9a36,248
+50,78,Línea 4,50-linea-4,#6fb6ae,248
+51,78,Línea 5,51-linea-5,#f7d417,248
+52,78,Línea 6,52-linea-6,#da251c,248
+53,78,Línea 7,53-linea-7,#e87b14,248
+55,78,Línea 9,55-linea-9,#4f2926,248
+56,78,Línea A,56-linea-a,#991a91,248
+58,78,Línea 12,58-linea-12,#b89d4e,248
+54,78,Línea 8,54-linea-8,#00923f,248
+248,79,MXP,248-mxp,#770b0b,269
+193,15,BRT 1,193-brt-1,#00bcff,283
+194,15,BRT 2,194-brt-2,#00bcff,283
+320,264,L1 Avenida Academia - Mago de Oz,320-l1-avenida-academia---mago-de-oz,#ff0000,290
+250,103,Roma-Lido,250-roma-lido,#1cf8e0,271
+165,78,Línea 7,165-linea-7-metrobus-,#000,264
+82,78,Línea 6,82-linea-6-metrobus-,#e73e97,264
+197,15,Western Tram,197-western-tram,#00bbff,258
+198,15,Yanfang Line ,198-yanfang-line-,#d85f26,258
+199,15,Daxing Line,199-daxing-line,#008193,258
+115,69,Northern Line,115-norther-line,#000,259
+116,69,Central Line,116-central-line,#fb0303,259
+117,69,Circle Line,117-circle-line,#fdfa07,259
+118,69,Waterloo & City Line,118-waterloo-&-city-line,#50e3c2,259
+229,79,M3,229-m3,#fdb813,67
+81,78,Línea 5,81-linea-5-metrobus-,#07357b,264
+80,78,Línea 4,80-linea-4-metrobus-,#f9901d,264
+79,78,Línea 3,79-linea-3-metrobus-,#78a22f,264
+78,78,Línea 2,78-linea-2-metrobus-,#8c3795,264
+77,78,Línea 1,77-linea-1-metrobus-,#b12118,264
+237,103,MC,237-mc,#376230,91
+251,103,Roma-Viterbo,251-roma-viterbo,#34c31c,271
+307,258,L3,307-l3,#f12b5c,243
+252,87,M1,252-m1,#efdd0c,74
+253,87,M6,253-m6,#4a90e2,74
+195,15,BRT 3,195-brt-3,#00bdff,283
+196,15,BRT 4,196-brt-4,#00bcff,283
+190,15,Line S1,190-line-s1,#000,284
+189,15,Line S2,189-line-s2,#bb8900,284
+309,258,Antigua línea a Plencia,309-antigua-linea-a-plencia,#4a90e2,288
+311,249,Canada Line,311-canada-line,#5af4fa,234
+312,249,Expo Line,312-expo-line,#4a90e2,234
+321,264,C-1 Casetas - Miraflores,321-c-1-casetas---miraflores,#ff0000,291
+330,114,Hanzomon Line,330-hanzomon-line,#937cb9,100
+332,114,Fukutoshin Line,332-fukutoshin-line,#ba6831,100
+333,114,Asakusa Line,333-asakusa-line,#ef5ba1,293
+335,114,Shinjuku Line,335-shinjuku-line,#6dc067,293
+336,114,Oedo Line,336-oedo-line,#b51e82,293
+344,252,Red Line,344-red-line,#d0021b,237
+338,99,113,338-113,#4a90e2,87
+361,95,M 9,361-ligne-9,#cdc92b,83
+360,95,M 8,360-ligne-8,#c5a3cc,83
+230,79,M4,230-m4,#4b80d1,67
+293,19,U4,293-u4,#f8e71c,13
+238,103,MA,238-ma,#f5a623,91
+243,79,R16,243-r16,#7ed321,269
+246,79,S2,246-s2,#0f9422,269
+247,79,S3,247-s3,#7c0e0e,269
+254,116,Linea 1,254-linea-1,#d01f02,102
+260,262,M1,260-m1,#e50a0a,273
+294,19,U5,294-u5,#8b572a,13
+295,19,U6,295-u6,#bd10e0,13
+292,19,U3,292-u3,#44af97,13
+301,45,Edinburgh to Glasgow,301-edinburgh-to-glasgow,#f5a623,37
+300,45,East Coast Mainline,300-east-coat-mainline,#000,37
+304,263,Mariatroster Bahn,304-mariatroster-bahn,#ff0000,285
+308,258,A,308-a,#7ed321,287
+261,106,Linha 1 • Azul (CMSP),261-linha-1---azul,#1e4ea3,94
+263,106,Linha 3 • Vermelha (CMSP),263-linha-3---vermelha,#ef2c30,94
+265,106,Linha 15 • Prata (CMSP),265-linha-15---prata,#7e898d,94
+274,106,Linha 17 • Ouro (CMSP),274-linha-17-•-ouro,#ffc619,94
+313,249,Millennium Line,313-millennium-line,#f8e71c,234
+276,106,Linha 18 • Bronze (VemABC),276-linha-18-•-bronze,#945a28,94
+322,266,Métro a,322-metro-a,#e2001a,292
+346,266,Ligne 1,346-ligne-1,#5a5a5a,295
+273,106,Expresso Leste (CPTM),273-expresso-leste,#ef7577,94
+267,106,Linha 7 • Rubi (CPTM),267-linha-7---rubi,#9d1062,94
+269,106,Linha 9 • Esmeralda (CPTM),269-linha-9---esmeralda,#00a98f,94
+271,106,Linha 11 • Coral (CPTM),271-linha-11---coral,#ef3a1e,94
+281,106,Trem dos Ingleses (ABPF),281-trem-dos-ingleses-(abpf),#000,275
+285,106,Expresso Tiradentes (SPTrans),285-expresso-tiradentes-(sptrans),#000,279
+287,106,Linha B • Diadema-Brooklin (EMTU),287-linha-b-•-diadema-brooklin-(emtu),#000,279
+286,106,Linha A • Corredor ABD (EMTU),286-linha-a-•-corredor-abd,#000,279
+290,19,U1,290-u1,#7ed321,13
+291,19,U2,291-u2,#d0021b,13
+324,114,Ginza Line,324-ginza-line,#f39700,100
+326,114,Hibiya Line,326-hibiya-line,#8ba2ae,100
+327,114,Tozai Line,327-tozai-line,#00b2dd,100
+331,114,Namboku Line,331-namboku-line,#00b5ad,100
+323,266,Métro b,323-metro-b,#0786c9,292
+347,266,Ligne 2,347-ligne-2,#676767,295
+340,252,Blue Line,340-blue-line,#4a90e2,237
+341,252,Orange Line,341-orange-line,#f5a623,237
+339,252,Green Line,339-green,#419b14,237
+348,266,Ligne 3,348-ligne-3,#737373,295
+345,267,3,345-3,#e57575,294
+370,95,T 3b,370-ligne-3b,#009b41,296
+376,95,RER A,376-rer-a,#ec1b2a,297
+366,95,M 14,366-ligne-14,#662c91,83
+349,266,Ligne 4,349-ligne-4,#808080,295
+350,266,Ligne 5,350-ligne-5,#8d8d8d,295
+351,266,Ligne 6,351-ligne-6,#9a9a9a,295
+355,95,M 3bis,355-ligne-3bis,#88d3df,83
+356,95,M 4,356-ligne-4,#ba4a9a,83
+359,95,M 7bis,359-ligne-7bis,#77c596,83
+363,95,M 11,363-ligne-11,#8c6539,83
+364,95,M 12,364-ligne-12,#008c59,83
+365,95,M 13,365-ligne-13,#87d2df,83
+371,95,T 4,371-ligne-4,#d9922b,296
+378,95,RER C,378-rer-c,#ffdc1d,297
+375,95,T 7,375-t-7,#885f30,296
+374,95,T 8,374-t-8,#8c8235,296
+352,95,M 1,352-ligne-1,#ffcd02,83
+372,95,T 5,372-ligne-5,#914e8e,296
+373,95,T 6,373-ligne-7,#e95c36,296
+353,95,M 2,353-ligne-2,#006db8,83
+354,95,M 3,354-ligne-3,#9b993b,83
+357,95,M 5,357-ligne-5,#f78e4b,83
+368,95,T 2,368-ligne-2,#ba498d,296
+369,95,T 3a,369-ligne-3a,#ef7d2d,296
+358,95,M 6,358-ligne-6,#77c596,83
+303,95,M 7,303-ligne-7,#f49eb2,83
+377,95,RER B,377-rer-b,#4c90cc,297
+379,95,RER D,379-rer-d,#00ab66,297
+380,95,RER E,380-rer-e,#c67db4,297
+382,95,J,382-j,#cdcd00,298
+383,95,K,383-k,#c7b300,298
+384,95,L,384-l,#7584bc,298
+381,95,H,381-h,#7b4339,298
+385,95,N,385-n,#00a092,298
+387,95,R,387-r,#e4b4d1,298
+388,95,U,388-u,#d60058,298
+367,95,T 1,367-ligne-1,#14609e,296
+362,95,M 10,362-ligne-10,#dfb03a,83
+206,69,"NR (freight, other)",206-national-rail-(freight-other),#dddddd,261
+144,69,NR (Waterloo),144-south-west-trains,#7a0000,261
+172,69,NR (Victoria),172-national-rail-(southern),#63f68b,261
+139,69,District Line,139-district-line,#417505,259
+142,69,Bakerloo Line,142-bakerloo,#8b572a,259
+143,69,Victoria Line,143-victoria,#02dafb,259
+240,79,R31,240-milano-mortara,#7ed321,269
+146,69,Jubilee Line,146-jubilee-line,#a6a4a4,259
+244,79,S5,244-s5,#e56c27,269
+162,69,Piccadilly Line,162-piccadilly-line,#000bbc,259
+249,79,S8,249-s8,#ffa4e5,269
+255,116,Linea 2,255-linea-2,#417505,102
+256,116,Linea 3,256-linea-3,#4a90e2,102
+204,69,Hammersmith & City Line,204-hammersmith-&-city-line,#fc9cfd,259
+205,69,Metropolitan Line,205-metropolitan-line,#a30b58,259
+258,116,Linea 5,258-linea-5,#f8e71c,102
+259,116,Linea 6,259-linea-6,#8b572a,102
+215,69,LO (Lea Valley lines),215-lo-(lea-valley-lines),#ea8f02,262
+282,106,Trem dos Imigrantes (ABPF),282-trem-dos-imigrantes-(abpf),#000,275
+262,106,Linha 2 • Verde (CMSP),262-linha-2---vermelha,#007a5c,94
+264,106,Linha 5 • Lilás (CMSP),264-linha-5---lilas,#a32a9b,94
+163,69,NR (Thameslink),163-thameslink,#457490,261
+216,69,NR (Marylebone),216-nr-(marylebone),#a482a5,261
+171,69,NR (London Bridge),171-national-rail-(southeastern),#1c3b7f,261
+214,69,NR (Liverpool St),214-nr-(liverpool-st),#8fafc5,261
+266,106,Linha 4 • Amarela (ViaQuatro),266-linha-4---amarela,#fdd104,94
+211,69,NR (Fenchurch St),211-nr-(fenchurch-st),#e3cb80,261
+208,69,NR (Euston),208-national-rail-(euston),#c30202,261
+140,69,LO (West London Line),140-overground,#ff8f00,262
+210,69,LO (Watford DC),210-lo-(watford-dc),#ff8f00,262
+151,69,LO (South London Line),151-overground-(south-london-line),#ff8f00,262
+212,69,LO (Romford shuttle),212-lo-(romford-shuttle),#ff8f00,262
+161,69,LO (North London Line),161-overground-(north-london-line),#ff8f00,262
+283,106,Trem de Guararema (ABPF),283-trem-de-guararema-(abpf),#000,275
+207,69,LO (GOBLIN),207-overground-(goblin),#ff9800,262
+159,69,LO (East London Line),159-overground-(east-london-line),#ff8f00,262
+203,69,Tramlink,203-tramlink,#50e71b,263
+167,69,Emirates Airline,167-emirates-airline,#c00000,263
+209,69,Elizabeth Line,209-elizabeth-line,#6518a1,263
+160,69,DLR,160-dlr,#86e9c8,263
+164,69,NR (Paddington),164-national-rail-(gwr),#390600,261
+202,69,NR (KX & Moorgate),202-national-rail-(kx-moorgate),#294c01,261
+275,106,Linha 6 • Laranja (MoveSP),275-linha-6-•-laranja,#ff8000,94
+239,103,MB,239-mb,#2097cf,91
+241,79,S1,241-s1,#ee1414,269
+242,79,Passante,242-passante,#4a8be2,269
+284,106,Estrada de Ferro Perus Pirapora (IFPPC),284-estrada-de-ferro-perus-pirapora-(ifppc),#000,275
+288,106,Linha C • Guarulhos-Tucuruvi (EMTU),288-linha-c-•-guarulhos-tucuruvi-(emtu),#000,279
+289,106,Linha D • Itapevi-Butantã,289-linha-d-•-itapevi-butanta,#000,279
+296,19,U7,296-u7,#50e3c2,13
+297,19,U8,297-u8,#157cf6,13
+298,19,U9,298-u9,#f5a623,13
+268,106,Linha 8 • Diamante (CPTM),268-linha-8---diamante,#9b998b,94
+270,106,Linha 10 • Turquesa (CPTM),270-linha-10---turquesa,#00748b,94
+272,106,Linha 12 • Safira (CPTM),272-linha-12---safira,#1c3a85,94
+277,106,Linha 13 • Jade (CPTM),277-linha-13-•-jade,#00a150,94
+278,106,Expresso Turístico • Luz-Jundiaí (CPTM),278-expresso-turistico-•-luz-jundiai,#761418,275
+299,19,U55,299-u55,#8b572a,13
+302,45,Borders Railway,302-borders-railway,#d0021b,37
+305,263,Linie 1,305-linie-1,#417505,286
+306,27,1,306-1,#b92c92,20
+310,258,L1,310-l1,#d0021b,243
+314,21,Troncal Autopista (B),314-troncal-autopista-(b),#7ed321,253
+317,265,Tram ligne 2,317-tram-ligne-2,#e52b38,289
+315,51,S1,315-s1,#417505,43
+316,265,Tram ligne 1,316-tram-ligne-1,#007945,289
+318,265,Tram ligne 3,318-tram-ligne-3,#0079bc,289
+319,265,Busway ligne 4,319-busway-ligne-4,#fdc613,289
+325,114,Marunouchi Line,325-marunouchi-line,#ed1c24,100
+328,114,Chiyoda Line,328-chiyoda-line,#00a650,100
+329,114,Yurakucho Line,329-yurakucho-line,#bb8b38,100
+334,114,Mita Line,334-mita-line,#0080c6,293
+343,252,Yellow Line,343-yellow-line,#f8e71c,237
+342,252,Silver Line,342-silver-line,#d0d0d0,237
+386,95,P,386-p,#f0b600,298
+389,95,T 9,389-t-9,#009cb4,296
+390,95,T 10,390-t-10,#8c8235,296
+391,95,T 11,391-t-11,#df5f3d,296
+392,95,T 12,392-t-12,#a02a3a,296
+393,95,T 13,393-t-13,#885f30,296
+394,95,Orlyval,394-orlyval,#7d7e7e,299
+395,95,M 15,395-m-15,#a60f31,300
+396,95,M 16,396-m-16,#ec7cae,300
+397,95,M 17,397-m-17,#ec7cae,300
+398,95,M 18,398-m-18,#95bf32,300
+399,95,Ancien M 14,399-ancien-m-14,#000,83
+400,95,T Zen 1,400-t-zen-1,#c6cd01,301
+401,95,T Zen 2,401-t-zen-2,#c6cd01,301
+402,95,T Zen 3,402-t-zen-3,#c6cd01,301
+403,95,T Zen 4,403-t-zen-4,#c6cd01,301
+404,95,T Zen 5,404-t-zen-5,#c6cd01,301
+405,95,Ancien M 2sud,405-ancien-m-2sud,#000,83
+406,95,Ancien M 2nord,406-ancien-m-2nord,#000,83
+407,95,Funiculaire de Monmartre,407-funiculaire,#ffffff,302
+408,95,Voguéo,408-vogueo,#99d420,303
+409,95,Tuileries-Suresnes,409-tuileries-suresnes,#000,303
+410,95,Charenton-Auteuil,410-charenton-auteuil,#000,303
+411,95,Austerlitz-Auteuil,411-austerlitz-auteuil,#000,303
+412,95, Le Louvre-Ablon,412-le-louvre-ablon,#000,303
+418,114,Keihin-Tohoku Line,418-keihin-tohoku-line,#000,305
+414,95,STCRP,414-stcrp,#000,303
+419,114,Sobu Main Line,419-chuo-sobu-line,#ffd700,305
+420,114,Saikyo Line,420-saikyo-line,#000,305
+421,114,Shonan-Shinjuku Line,421-shonan-shinjuku-line,#000,305
+422,114,Keiyo Line,422-keiyo-line,#000,305
+423,114,Keikyu Main Line,423-keikyu-main-line,#000,306
+424,114,Keio Line,424-keio-line,#000,307
+425,114,Inokashira Line,425-inokashira-line,#000,307
+426,114,Keisei Main Line,426-keisei-main-line,#000,308
+427,114,Narita Sky Access,427-narita-sky-access,#000,308
+428,114,Odawara Line,428-odawara-line,#000,309
+429,114,Tama Line,429-tama-line,#000,309
+430,114,Ikebukuro Line,430-ikebukuro-line,#000,310
+431,114,Shinjuku Line,431-seibu-shinjuku-line,#00ced1,310
+432,114,Kokubunji Line,432-kokubunji-line,#000,310
+433,114,Tamagawa Line,433-tamagawa-line,#000,310
+434,114,Tamako Line,434-tamako-line,#000,310
+443,114,Tamagawa Line,443-tokyu-tamagawa-line,#800080,312
+436,114,Isesaki Line,436-isesaki-line,#000,311
+437,114,Nikko Line,437-nikko-line,#000,311
+454,114,Tokaido Main Line,454-tokaido-main-line,#ffa500,305
+439,114,Den-en-toshi Line,439-den-en-toshi-line,#000,312
+447,114,Setagaya Line,447-tokyu-setagaya-line,#000,312
+442,114,Oimachi Line,442-oimachi-line,#000,312
+435,114,Skytree Line,435-tobu-skytree-line,#000,311
+444,114,Toyoko Line,444-toyoko-line,#000,312
+449,126,Línea 3,449-linea-3,#d0021b,249
+440,114,Ikegami Line,440-ikegami-line,#ffc0cb,312
+450,126,Línea 1,450-linea-1,#4a90e2,315
+446,114,Tokyo Monorail Haneda Airport Line,446-tokyo-monorail-haneda-airport-line,#000080,314
+445,114,New Transit Yurikamome,445-yurikamome,#1662b8,313
+448,126,Línea 2,448-linea-2,#417505,249
+451,114,Rinkai Line,451-rinkai-line,#89c6cb,316
+415,114,Nippori-Toneri Liner,415-nippori-toneri-liner,#ff69b4,304
+416,114,Tokyo Sakura Tram,416-toden-arakawa-line,#199332,304
+417,114,Yamanote Line,417-yamanote-line,#9acd32,305
+455,114,Utsunomiya Line,455-utsunomiya-line,#f68b1e,305
+453,4,Línea 7,453-linea-7,#4a4a4a,267
+438,114,Tojo Line,438-tojo-line,#0000cd,311
+457,114,Takasaki Line,457-takasaki-line,#f68b1e,305
+456,114,Tohoku Main Line,456-tohoku-main-line,#f68b1e,305
+459,95,Ancienne ligne B Nord-Sud,459-ancienne-ligne-b-nord-sud,#000,83
+458,114,Chuo Main Line,458-chuo-line,#fe642e,305
+460,95,Ancienne ligne A Nord-Sud,460-ancienne-ligne-a-nord-sud,#000,83
+461,67,Azul,461-azul,#260cf4,58
+462,67,Vermelha,462-vermelha,#ef0425,58
+463,67,Verde,463-verde,#2ee06d,58
+464,67,Amarela,464-amarela,#fae907,58
+465,95,CDGVal 1,465-cdgval-1,#0a3071,299
+466,95,CDGVal 2,466-cdgval-2,#0a3071,299
+441,114,Meguro Line,441-meguro-line,#1e90ff,312
+467,67,Cais do Sodré,467-cais-do-sodre,#41026c,317
+469,67,Rossio,469-rossio,#670795,317
+468,67,Santa Apolónia,468-santa-apolonia,#310878,317
+470,67,CP,470-cp,#5f05c5,317
+471,95,CDG Express,471-cdgexpress,#f0871f,299
+472,95,Le Bus Direct 1,472-le-bus-direct-1,#b20066,299
+473,95,Le Bus Direct 2,473-le-bus-direct-2,#7bbb58,299
+474,95,Le Bus Direct 3,474-le-bus-direct-3,#0098d8,299
+475,95,Le Bus Direct 4,475-le-bus-direct-4,#ff9b00,299
+476,95,Navette,476-navette,#000,83
+477,48,Glasgow Subway,477-glasgow-subway,#ff6600,40
