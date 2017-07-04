@@ -1,0 +1,1 @@
+cmd /k "cd D:\workspace\ai-practice\ & jupyter notebook"
